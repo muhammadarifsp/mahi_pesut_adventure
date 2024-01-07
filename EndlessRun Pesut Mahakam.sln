@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{15157c68-39ea-c3de-1ea6-2d2bbe47d193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StylizedWaterForURP", "StylizedWaterForURP.csproj", "{a5d95094-c668-2cc9-766a-f925c32d8bf1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StylizedWaterForURPEditor", "StylizedWaterForURPEditor.csproj", "{cf1601aa-c1e2-0248-20e7-ccf918909c12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15157c68-39ea-c3de-1ea6-2d2bbe47d193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15157c68-39ea-c3de-1ea6-2d2bbe47d193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a5d95094-c668-2cc9-766a-f925c32d8bf1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a5d95094-c668-2cc9-766a-f925c32d8bf1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{cf1601aa-c1e2-0248-20e7-ccf918909c12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{cf1601aa-c1e2-0248-20e7-ccf918909c12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
